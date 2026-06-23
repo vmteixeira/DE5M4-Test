@@ -1,2 +1,4 @@
 This is a text
 Test after creating new branch
+
+I changed this line
